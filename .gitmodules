@@ -1,1 +1,4 @@
 
+[submodule "LOD-SpillDetector"]
+	path = LOD-SpillDetector
+	url = https://github.com/msubigdata/LOD-SpillDetector.git
